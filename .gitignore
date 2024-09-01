@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# dotenv environment variables file
+.env.*
+
+# Output of 'npm pack'
+*.tgz
+
+# VSCode
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+
+# Kafka data directories
+kafka-logs/
+zookeeper/
+zookeeper.out
+
+# MongoDB data directories
+/data/db/
+mongod.lock
+mongodb-*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs for testing
+coverage/

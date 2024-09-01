@@ -1,0 +1,15 @@
+
+@url_dev=http://localhost:5000/update-symbol
+
+POST  {{url_dev}}
+Content-Type: application/json
+
+{
+    "newSymbol": "btcusdt"
+}
+ 
+
+
+ 
+
+
