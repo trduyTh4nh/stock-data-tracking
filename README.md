@@ -26,7 +26,7 @@ Dự án này là một dịch vụ xử lý dữ liệu dùng để theo dõi g
 
 1. **Clone repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/trduyTh4nh/stock-data-tracking.git)
+    git clone https://github.com/trduyTh4nh/stock-data-tracking.git
     ```
 
 2. **Cài đặt các dependency:**
