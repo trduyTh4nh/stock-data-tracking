@@ -1,4 +1,4 @@
-# Stock and Cryptocurrency Data Processing Service
+# Stock Data Processing Dashboard
 
 ## Tổng Quan
 
